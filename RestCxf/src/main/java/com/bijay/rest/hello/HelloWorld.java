@@ -5,6 +5,7 @@ public class HelloWorld {
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 		System.out.println("Hi i am here with Maven-RestCxf");
+		System.out.println("this is second test now 02");
 
 	}
 
